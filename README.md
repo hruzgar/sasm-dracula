@@ -1,5 +1,4 @@
 # sasm-dracula
-Dracula Dark Theme for SASM
 
 ![](https://github.com/hruzgar/sasm-dracula/blob/main/preview.png)
 
