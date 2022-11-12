@@ -16,6 +16,7 @@ sudo chmod +x install.sh
 ```
 4. Finally run the script with:
 ```bash
-sudo bash install.sh
+bash install.sh
 ```
+(If you run this command with sudo your home directory will not be find and the script will fail)
 5. Restart your PC and enjoy (;
