@@ -10,8 +10,12 @@ git clone https://github.com/hruzgar/sasm-dracula.git
 ```bash
 cd sasm-dracula
 ```
-3. run the script with:
+3. Give the script execute permissins with:
 ```bash
 sudo chmod +x install.sh
+```
+4. Finally run the script with:
+```bash
 sudo ./install.sh
 ```
+5. Restart your PC and enjoy (;
