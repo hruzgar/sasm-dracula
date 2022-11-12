@@ -12,5 +12,6 @@ cd sasm-dracula
 ```
 3. run the script with:
 ```bash
+sudo chmod +x install.sh
 sudo ./install.sh
 ```
