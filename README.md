@@ -1,6 +1,8 @@
 # sasm-dracula
 Dracula Dark Theme for SASM
 
+![](https://github.com/hruzgar/sasm-dracula/blob/main/preview.png)
+
 # How to install
 1. clone the repository with:
 ```bash
