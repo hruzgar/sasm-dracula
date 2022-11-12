@@ -4,19 +4,19 @@
 ![](https://github.com/hruzgar/sasm-dracula/blob/main/preview.png)
 
 # How to install on Linux
-1. clone the repository with:
+1. clone the repository
 ```bash
 git clone https://github.com/hruzgar/sasm-dracula.git
 ```
-2. Change your current directory to the cloned repo with:
+2. Change your current directory to the cloned repo-folder
 ```bash
 cd sasm-dracula
 ```
-3. Give the script execute permissions with:
+3. Give the script execute permissions
 ```bash
 sudo chmod +x install.sh
 ```
-4. Finally run the script with:
+4. And finally run the script!
 ```bash
 bash install.sh
 ```
