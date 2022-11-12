@@ -16,6 +16,6 @@ sudo chmod +x install.sh
 ```
 4. Finally run the script with:
 ```bash
-sudo ./install.sh
+sudo bash install.sh
 ```
 5. Restart your PC and enjoy (;
