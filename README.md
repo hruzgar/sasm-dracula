@@ -4,7 +4,7 @@
 ![](https://github.com/hruzgar/sasm-dracula/blob/main/preview.png)
 
 # How to install on Linux
-1. clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/hruzgar/sasm-dracula.git
 ```
