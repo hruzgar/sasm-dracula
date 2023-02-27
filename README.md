@@ -12,15 +12,11 @@ git clone https://github.com/hruzgar/sasm-dracula.git
 ```bash
 cd sasm-dracula
 ```
-3. Give the script execute permissions
-```bash
-sudo chmod +x install.sh
-```
-4. And finally run the script!
+3. And finally run the script!
 ```bash
 sudo bash install.sh
 ```
-5. Restart your PC and enjoy (;
+4. Restart your PC and enjoy (;
 # ..
 - currently this theme only works with Linux. If somebody wants to write a batch-script for windows i am open for pull-requests
 - the theme uses the [jetbrains mono](https://www.jetbrains.com/de-de/lp/mono/) font. (repo contains the font and copies it to the Linux font folder)
