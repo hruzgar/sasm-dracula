@@ -18,9 +18,8 @@ sudo chmod +x install.sh
 ```
 4. And finally run the script!
 ```bash
-bash install.sh
+sudo bash install.sh
 ```
-
 5. Restart your PC and enjoy (;
 # ..
 - currently this theme only works with Linux. If somebody wants to write a batch-script for windows i am open for pull-requests
